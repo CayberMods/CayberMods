@@ -17,7 +17,6 @@
 
 ## Tentang Saya  
 **Manusia Biasa**
----
 Saya hanya membagikan project-project saya di github
 ---
 
@@ -66,8 +65,5 @@ Saya hanya membagikan project-project saya di github
 
 ✨  Terimakasih Telah  Berkunjung Semoga  Bermanfaat! ✨ 
 
-<p align="center">
-    <i>Last updated: </i> <b>January 3, 2025</b>
-</p>
 
 </div>
