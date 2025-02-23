@@ -35,9 +35,6 @@ Saya hanya membagikan project-project saya di github
     <a href="https://github.com/caybermods">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-    <a href="https://github.com/caybermods">
-    <img src="https://i.ibb.co.com/Rk30hyF5/IMG-20250222-210524.webp&logo=CayberMods&logoColor=red" alt="CayberMods">
-</a>
 </p>
 
 ---
